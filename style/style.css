@@ -35,7 +35,7 @@ header{
 }
 
 .fas.fa-bars.display {
-    display:none!important
+    display:none;
 }
 
 p{
@@ -177,7 +177,7 @@ justify-content: center;
 }
      
 @media only screen and (max-width: 600px) {
-    .fa-bars{
+    .fas.fa-bars.display{
         color:white;
         font-size:25px;
         display: block;
