@@ -34,8 +34,8 @@ header{
     
 }
 
-.display {
-    display: none
+.fas.fa-bars.display {
+    display:none!important
 }
 
 p{
