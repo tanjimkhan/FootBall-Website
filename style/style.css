@@ -180,7 +180,7 @@ justify-content: center;
     .fas.fa-bars.display{
         color:white;
         font-size:25px;
-        display: block;
+        display: block!important;
     }
     .nav{
         display:flex;
